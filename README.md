@@ -5,6 +5,10 @@ It contains a simple stochastic model that draws samples from a normal distribut
 
 This repository provides two versions of the model, so that you can work in your preferred language.
 
+Please feel free to use **[our community discussion board](https://github.com/orgs/rrcop/discussions)** to share your thoughts and experiences!
+If you make progress on these exercises, consider [creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to share your work.
+You can also view [current pull requests](https://github.com/rrcop/example-testing-and-reproducibility/pulls).
+
 ## Python model
 
 The model is defined in `model.py`, and test cases are defined in `test.py`.
